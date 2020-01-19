@@ -1,0 +1,40 @@
+/*style.css*/
+/*html,*/
+/*body{*/
+/*    height: 100%;*/
+/*}*/
+img{
+    max-width:100%;
+}
+
+/*cover*/
+#cover{
+    background:#222 url('../img/stars.jpg') center center no-repeat;
+    background-size: cover;
+    color:white;
+    height:100%;
+    text-align:justify;
+    display:flex;
+    align-item:center;
+}
+#cover-caption{
+    width:100%;
+       }
+
+.form h2.form-title {
+        font-size: 16px;
+        font-family: "myriad-pro","myriad-pro-1",sans-serif;
+        color: #fff;
+        text-transform: none;
+        position: relative;
+        left: -20px;
+        background: url(../img/stars.jpg) top right no-repeat;
+        height: 38px;
+        line-height: 30px;
+        display: inline-block;
+        padding: 0 22px 0 20px;
+    }
+#rowset{
+    margin: 10px;
+    padding: 0;
+}
