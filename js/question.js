@@ -1,6 +1,6 @@
 var questions = [
   {
-    "question": "Who is the strongest?",
+    "question": "Who is the strongest in class?",
     "option1": "Superman1",
     "option2": "Analyical Engine1",
     "option3": "Calculator1",
